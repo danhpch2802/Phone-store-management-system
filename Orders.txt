@@ -1,0 +1,41 @@
+2
+123456
+nv6
+2020 12 08
+0
+2
+3
+IPhone 11 Pro Max 64GB
+29490000
+Apple A13 Bionic 6 Core
+4
+64
+3
+IPhone 11 Pro Max 64GB
+29490000
+Apple A13 Bionic 6 Core
+4
+64
+123456
+nv7
+2020 12 08
+0
+3
+3
+IPhone 11 Pro Max 64GB
+29490000
+Apple A13 Bionic 6 Core
+4
+64
+3
+IPhone 11 Pro Max 64GB
+29490000
+Apple A13 Bionic 6 Core
+4
+64
+3
+IPhone 11 Pro Max 64GB
+29490000
+Apple A13 Bionic 6 Core
+4
+64

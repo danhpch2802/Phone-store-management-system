@@ -1,0 +1,137 @@
+17
+0
+nv1
+vvV+x/U6bUC+tkCngKY5yDvCmsipgW8fxsXG3Nk8RyE=
+2001 02 28
+Nguyen Van 1
+0908226178
+Staff
+
+0
+nv2
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 03 01
+Nguyen Van 2
+0908226179
+Manager
+
+0
+nv3
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 08 09
+Nguyen Van 3
+0908226180
+Staff
+
+0
+nv4
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 08 09
+Nguyen Van 4
+0908226181
+Staff
+
+0
+nv5
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 10 10
+Nguyen Van 5
+0908226182
+Manager
+
+1
+nv6
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 10 10
+Nguyen Van 66
+0900000721
+28 Nguyen Van Cu 
+
+1
+nv7
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 09 09
+Nguyen Van 7
+0908226184
+28 Nguyen Van Cu
+
+1
+nv8
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 01 01
+Nguyen Van 8
+0908226185
+29 Nguyen Van Cu
+
+1
+nv9
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2002 02 02
+Nguyen Van 9
+0908226186
+30 Nguyen Van Cu
+
+1
+nv10
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2003 08 09
+Nguyen Van 10
+0908226187
+31 Nguyen Van Cu
+
+1
+tuan 
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2002 08 15
+tuan to 
+0123456789
+nguyen van cu 
+
+1
+nv11
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2002 08 15
+Thanh
+0908226270
+27 Nguyen Van Cu
+
+1
+nv13
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 02 28
+nguyen van 13
+0908226270
+20 Ly Tu Trong
+
+1
+nv15
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 02 28
+nguyen van 15
+0908226270
+10 Ly Tu Trong
+
+1
+nv17
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 02 28
+khang
+0908226270
+20 asd
+
+1
+nv19
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2001 02 28
+nguyen van 19
+0908226270
+27 nguyen van cu
+
+1
+nv18
+jZae727K08KaOmKSgOaGzww/XVqGr/PKEgIMkjrcbJI=
+2020 02 18
+nguyen van 18
+0124567893
+nvc
+
